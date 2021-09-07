@@ -1,0 +1,2 @@
+C:\Users\Уля\Desktop\Прога\cpp-coding\собес\search_line\Debug\search_line.exe
+C:\Users\Уля\Desktop\Прога\cpp-coding\собес\search_line\Debug\search_line.pdb
